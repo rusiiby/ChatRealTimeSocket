@@ -1,0 +1,8 @@
+#output p {
+	padding: 14px 0px;
+	color:#aaa;
+}
+#chat-window{
+	overflow-y: scroll;
+	height: 200px;
+}
