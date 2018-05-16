@@ -13,5 +13,5 @@ Pequeño chat en tiempo real usando **SocketIO**  y **Node JS** que replica medi
 
 ## Herramientas
 
-[Socket IO](https://github.com/socketio/socket.io)  -  Aplicación bidireccional basada en eventos en tiempo real.
-[Node Js](https://nodejs.org/es/) - Entorno de ejecución para JavaScript del lado del servidor
+* [Socket IO](https://github.com/socketio/socket.io)  -  Aplicación bidireccional basada en eventos en tiempo real. 
+* [Node Js](https://nodejs.org/es/) - Entorno de ejecución para JavaScript del lado del servidor
